@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Top Up Diamond Murah</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; margin: 0; padding: 20px; background: #f0f0f0; }
+    .header { background: #1f8ef1; color: white; padding: 10px 0; margin-bottom: 20px; }
+    .product { background: white; margin: 10px auto; padding: 10px; max-width: 400px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    img { max-width: 200px; }
+    a.button { display: inline-block; padding: 10px 20px; background: green; color: white; text-decoration: none; border-radius: 5px; }
+    .qris { margin: 20px 0; }
+    footer { margin-top: 40px; color: #555; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>TOP UP DIAMOND MURAH</h1>
+  </div>
+
+  <div class="qris">
+    <h3>Scan QRIS DANA untuk pembayaran</h3>
+    <img src="https://imgur.com/a/EsiinAc" alt="QR DANA">
+    <p>Bayar sesuai harga produk lalu konfirmasi via form.</p>
+  </div>
+
+  <div class="product">
+    <h2>Top Up Diamond Mobile Legends</h2>
+    <p>Klik link nya</p>
+    <a class="button" href="https://forms.gle/vqBNwqe6n4GM396z8" target="_blank">Order Sekarang</a>
+  </div>
+
+  <footer>
+    <p>© 2025 Top Up Diamond Murah | Fast & Trusted</p>
+  </footer>
+
+</body>
+  </html>
+  
